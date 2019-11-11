@@ -9,7 +9,7 @@ or Break events.
 Copyright 2019 Make or Break.
 
 The files available here are to be used only as a reference to implement the
-Make or Break website.
+[Make or Break website](https://github.com/makeorbreak-io/mob-web).
 
 We are new to licensing non-software works. For now, we are not using any free
 / open source / creative commons license. We are trying to figure out the
